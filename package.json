@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+
+  },
+  "author": "Wayne Weibel",
+  "license": "GNU-GPL-3.0"
+}
